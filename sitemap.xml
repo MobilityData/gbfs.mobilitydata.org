@@ -2,32 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gbfs.org/</loc>
-         <lastmod>2022-03-06</lastmod>
+         <lastmod>2022-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/about/</loc>
-         <lastmod>2022-03-06</lastmod>
+         <loc>https://gbfs.org/learn/</loc>
+         <lastmod>2022-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/faq/</loc>
-         <lastmod>2022-03-06</lastmod>
+         <loc>https://gbfs.org/learn/articles/</loc>
+         <lastmod>2022-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/major-change-proposals/</loc>
-         <lastmod>2022-03-06</lastmod>
+         <loc>https://gbfs.org/learn/faq/</loc>
+         <lastmod>2022-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/reference/</loc>
-         <lastmod>2022-03-06</lastmod>
+         <loc>https://gbfs.org/learn/guides/</loc>
+         <lastmod>2022-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/resources/</loc>
-         <lastmod>2022-03-06</lastmod>
+         <loc>https://gbfs.org/learn/white-papers/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/participate/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/participate/contribute/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/participate/process/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/participate/upcoming/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/specification/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/specification/proposals/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/specification/reference/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/toolbox/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/toolbox/glossary/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/toolbox/resources/</loc>
+         <lastmod>2022-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
