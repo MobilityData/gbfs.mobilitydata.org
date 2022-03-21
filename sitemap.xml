@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://gbfs.org/about/</loc>
+         <lastmod>2022-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://gbfs.org/learn/</loc>
          <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
@@ -21,7 +26,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/learn/guides/</loc>
+         <loc>https://gbfs.org/learn/policy-guides/</loc>
          <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -31,27 +36,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gbfs.org/participate/</loc>
-         <lastmod>2022-03-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gbfs.org/participate/contribute/</loc>
-         <lastmod>2022-03-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gbfs.org/participate/process/</loc>
-         <lastmod>2022-03-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gbfs.org/participate/upcoming/</loc>
-         <lastmod>2022-03-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://gbfs.org/specification/</loc>
+         <lastmod>2022-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/specification/change-proposals/</loc>
+         <lastmod>2022-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gbfs.org/specification/process/</loc>
          <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
